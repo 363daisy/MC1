@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+ 
 struct BuddyDialog: View {
     @Binding var isActive: Bool
 
